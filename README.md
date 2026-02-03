@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+Cytometry In R
+
+Location: Miami, Florida, USA
+
+My Favorite Fluorophore/Metal-Isotope: Cy5
+
+Previous Coding Experience: No
+
+What I Hope to Get From This Course: Learn a lot about Cytometry in R
+
 <!--
 **Mosso-Pani/Mosso-Pani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
